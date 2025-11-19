@@ -1,3 +1,7 @@
+//This is an .ijm written to run in FIJI
+//Katelyn Baker, University of Colorado Anschutz - Laboratory of Dr. Kimberley Bruce
+//2025
+
 macro "UNlipidated ApoE3/4 Cell Masks"{
     count = 1;
     setBatchMode(true);

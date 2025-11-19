@@ -1,6 +1,7 @@
 //This is an .ijm written to run in FIJI
 //Katelyn Baker, University of Colorado Anschutz - Laboratory of Dr. Kimberley Bruce
 //2025
+//https://github.com/katelynb-sci
 
 macro "Lipidated_ApoE_Tx_Mask"{
     count = 1;
